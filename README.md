@@ -16,3 +16,6 @@ After downloading the required packages, unzip them to your working directory an
 1. Download the MATLAB source code. 
 2. Unzip it to your desired location. 
 
+
+## Contact
+Please send your suggestions, comments, reports of bugs and errors to <a href="zhengjie@ntu.edu.sg">Jie Zheng</a>. Thank you!
