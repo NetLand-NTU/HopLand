@@ -5,6 +5,7 @@ dataset='SyntheticData'; %deng2014_1,SyntheticData,guo2010,LPS,HSMM,ES_MEF,yan20
 hopland=LoadProcessedData(dataset); 
 
 %% load user data
+% % uncomment this section 
 % % the name of the dataset
 % hopland.dataset=dataset;
 % % time series or stages used for comparison only 
