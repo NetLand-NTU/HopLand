@@ -49,4 +49,4 @@ Figure 2. The minimum spanning tree constructed from Waddington's epigenetic lan
 
 
 ## Contact
-Please send your suggestions, comments, reports of bugs and errors to <a href="zhengjie@ntu.edu.sg">Jie Zheng</a>. Thank you!
+Please send your suggestions, comments, reports of bugs and errors to <a href="zhengjie_2001@hotmail.com">Jie Zheng</a>. Thank you!
