@@ -2,16 +2,17 @@
 Single-cell pseudotime recovery using continuous Hopfield network based modeling of Waddington’s epigenetic landscape
 
 ## Dependencies
-The MATLAB package of GPmat and a fast marching toolbox are required. They can be downloaded from 
+The following MATLAB packages are required:
 
 -- fast marching toolbox: https://www.ceremade.dauphine.fr/~peyre/teaching/manifold/matlab/toolbox_fast_marching.zip
 or http://histone.sce.ntu.edu.sg/HopLand/toolbox_fast_marching.zip
 
--- GPmat: https://github.com/SheffieldML/GPmat (It recommends that you also include netlab (https://github.com/sods/netlab) as a dependency)
+-- GPmat: https://github.com/SheffieldML/GPmat (It is recommended that you also include NETLAB (https://github.com/sods/netlab) as a dependency). In the "isomapEmbed.m" file under the "mltools" folder, please change line 13 from "neighbours = 7;" to "neighbours = 10;".
 
+-- IsomapR1: https://github.com/ohadf/isomatch/tree/master/external/IsomapR1 (you can also download it from above)
 
 After downloading the required packages, unzip them to your working directory and add the directories to your MATLAB path. 
-
+Note: It could happen that the code in the above dependency packages might be different from the versions used in HopLand, which could lead to slightly different results of HopLand. We apologize for the confusion and inconvenience caused, and we will try to track and update such changes. If you have any question or suggestion, please feel free to contact us (Jie Zheng at zhengjie_2001@hotmail.com or zhengjiemaryland@gmail.com).
 
 ## Installation
 1. Download the MATLAB source code. 
